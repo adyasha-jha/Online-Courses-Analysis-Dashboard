@@ -1,5 +1,12 @@
 # 🎓 Recorded Courses Analysis Dashboard
 
+## 📊 Dashboard Link
+
+Access the interactive Power BI dashboard here:  
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzlhZGQ1ZTEtNDQxZi00OTc3LWFjOWQtM2I0ZWFiNDIxNzM4IiwidCI6IjRmNzczYzYyLTc3MDUtNDg3Mi1hNzdkLWQzMTgwYTAwYmNiYiJ9)
+
+---
+
 ## 📘 About
 
 This project presents a comprehensive **Power BI dashboard** designed to analyze recorded course data from online learning platforms.  
@@ -43,13 +50,6 @@ The dashboard addresses the following key areas:
 
 ---
 
-## 📊 Dashboard Link
-
-Access the interactive Power BI dashboard here:  
-[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzlhZGQ1ZTEtNDQxZi00OTc3LWFjOWQtM2I0ZWFiNDIxNzM4IiwidCI6IjRmNzczYzYyLTc3MDUtNDg3Mi1hNzdkLWQzMTgwYTAwYmNiYiJ9)
-
----
-
 ## 🛠️ Tools & Technologies
 
 - **Power BI** – data visualization and dashboard creation  
@@ -67,6 +67,3 @@ Access the interactive Power BI dashboard here:
 - **Instructor Excellence**: Top instructors identified for collaboration opportunities.  
 - **Duration Impact**: Relationship between course length and engagement levels.  
 - **Subtitles Influence**: Correlation between subtitle availability and course views.
-
-
-
