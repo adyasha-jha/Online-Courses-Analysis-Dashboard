@@ -1,4 +1,4 @@
-# 🎓 Recorded Courses Analysis Dashboard
+# 🎓 Online Courses Analysis Dashboard
 
 ## 📊 Dashboard Link
 
